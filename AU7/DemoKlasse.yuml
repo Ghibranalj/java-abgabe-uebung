@@ -1,0 +1,4 @@
+
+// {type : class}
+// {generate:true}
+[DemoKlasse | - wert : int ; | + getWert() : int ; + setWert() : void ; + addieren(DemoKlasse) : DemoKlasse]
